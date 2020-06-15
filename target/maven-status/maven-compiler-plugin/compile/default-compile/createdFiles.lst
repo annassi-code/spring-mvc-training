@@ -1,0 +1,12 @@
+com\application\validator\UserValidator.class
+com\application\configuration\JpaConfiguration.class
+com\application\repository\ProductRepository.class
+com\application\controller\HomeController.class
+com\application\validator\ProductValidator.class
+com\application\controller\UserController.class
+com\application\configuration\AppConfiguration.class
+com\application\entity\Product.class
+com\application\configuration\WebConfiguration.class
+com\application\repository\UserRepository.class
+com\application\controller\ProductController.class
+com\application\entity\User.class
